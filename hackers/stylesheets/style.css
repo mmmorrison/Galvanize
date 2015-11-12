@@ -1,0 +1,19 @@
+.companies {
+    list-style: none;
+    text-align: left;
+    padding-left: 0
+}
+
+img {
+    height: 44px;
+    width: 32px;
+}
+
+.gray {
+    background-color: #f6f6f5;
+}
+
+.colleft {
+    float: left;
+    margin-right: 400px;
+}
