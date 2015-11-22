@@ -1,0 +1,34 @@
+.container {
+  border: 1px solid black;
+  position: relative;
+}
+
+nav {
+  border: 1px solid red;
+  width: 200px;
+  height: 100px;
+  position: absolute;
+  /*left: 0px;*/
+  /*box-sizing: border-box;*/
+}
+
+section {
+  border: 1px solid green;
+  /*height: 90px;*/
+  margin-left: 200px;
+}
+
+footer {
+  border: 1px solid blue;
+  height: 70px;
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+
+}
+
+body {
+  margin-bottom: 120px;
+  /*box-sizing: border-box;*/
+  margin: 0;
+}
